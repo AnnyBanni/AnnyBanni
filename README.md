@@ -1,11 +1,14 @@
 [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
 <div id="header" aling="center"> 
-<h1>## Добро пожаловать, я Анна)</h1>
-<h3>## Junior QA Engineer</h3></div>
+
+  ## Добро пожаловать, я Анна)
+## Junior QA Engineer
 <a href="linkedin-url" >
+
 ## My CV
 <img scr="" alt="LinkedIn"/>
 </a>
+
 ## Обо мне
 Я начинающий тестировщик программного обеспечения с небольшим опытом ручного тестирования. 
 
