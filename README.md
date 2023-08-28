@@ -1,7 +1,8 @@
 [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
 <div id="header" aling="center"> 
 
-  ## Добро пожаловать, я Анна)
+## Добро пожаловать, я Анна)
+
 ## Junior QA Engineer
 <a href="linkedin-url" >
 
