@@ -46,4 +46,3 @@
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
