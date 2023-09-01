@@ -36,6 +36,6 @@
 - [Postman Collections](https://github.com/AnnyBanni/postman)
 - [Bash commands](https://github.com/AnnyBanni/Bash_commands)
 - [JS-1](https://github.com/AnnyBanni/JS-1)
-  
+- [html_css-1](https://github.com/AnnyBanni/html_css-1)
 
 
