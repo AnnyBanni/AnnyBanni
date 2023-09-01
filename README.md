@@ -35,6 +35,7 @@
 - [SQL Queries](https://github.com/AnnyBanni/SQL)
 - [Postman Collections](https://github.com/AnnyBanni/postman)
 - [Bash commands](https://github.com/AnnyBanni/Bash_commands)
+- [JS-1](https://github.com/AnnyBanni/JS-1)
   
 
 
