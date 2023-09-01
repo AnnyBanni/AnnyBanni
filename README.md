@@ -34,6 +34,7 @@
 - [Bug-Reports](https://github.com/AnnyBanni/bug-reports)
 - [SQL Queries](https://github.com/AnnyBanni/SQL)
 - [Postman Collections](https://github.com/AnnyBanni/postman)
-- [Bash commands](https://github.com/AnnyBanni/postman)
+- [Bash commands](https://github.com/AnnyBanni/Bash_commands)
+  
 
 
