@@ -29,10 +29,11 @@
 ![Header](https://img.shields.io/badge/AdobeIllustrator-090909?style=for-the-badge&logo=AdobeIllustrator&logoColor=#31A8FF)
 <h2>Тестовые артефакты</h2>
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/AnnyBanni/checklist)
+- [Test-Suites and Test-Cases](https://github.com/AnnyBanni/test-cases)
+- [Bug-Reports](https://github.com/AnnyBanni/bug-reports)
+- [SQL Queries](https://github.com/AnnyBanni/SQL)
+- [Postman Collections](https://github.com/AnnyBanni/postman)
+- [Bach commands](https://github.com/AnnyBanni/postman)
 
 
