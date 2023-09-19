@@ -31,7 +31,7 @@
 
 - [Checklists](https://github.com/AnnyBanni/checklist)
 - [Test-Suites and Test-Cases](https://github.com/AnnyBanni/test-cases)
-- [Bug-Reports](https://github.com/AnnyBanni/bug-reports)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1cuoUqpjS542GpSFFM_ZWd5XmRev6czw5WPvuLatY_Ug/edit#gid=824307595)
 - [SQL Queries](https://github.com/AnnyBanni/SQL)
 - [Postman Collections](https://github.com/AnnyBanni/postman)
 - [Bash commands](https://github.com/AnnyBanni/Bash)
